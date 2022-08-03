@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isabelalsantos
 - 👀 I’m interested in programming
 - 🌱 I’m currently graduating in Computation Science
-- 💞️ I’m looking to post my personal projects that i use to practice programming and learn
+- 💞️ I’m looking to post my personal projects that i use to practice and learn
 - 📫 How to reach me: ibelalimas@gmail.com
 
 <!---
